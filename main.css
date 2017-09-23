@@ -40,8 +40,10 @@
   opacity: 1;
 }
 .anim_box-list li a::after {
+  bottom: 40px;
   content: '';
   display: block;
+  height: 17px;
   opacity: 0;
   position: absolute;
   right: 40px;
